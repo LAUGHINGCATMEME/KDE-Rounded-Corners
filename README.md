@@ -92,7 +92,7 @@ sudo dnf install kwin-effect-roundcorners # or kwin-effect-roundcorners-x11
 AUR package by [xiota](https://aur.archlinux.org/account/xiota)
 
 ```bash
-sudo pamac build kwin-effect-rounded-corners-git # or kwin-effect-rounded-corners-x11-git
+yay -S kwin-effect-rounded-corners-git 
 ```
 
 NixOS package by [flexagoon](https:///flexagoon)
